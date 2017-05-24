@@ -6,7 +6,7 @@ categories: basics
 ---
 Let this picture be here for some time:
 
-![Blogging showstoppers](/img/andrzej-blogging-landing-page.jpg)
+![Blogging showstoppers](/i/andrzej-blogging-landing-page.jpg)
 
 [Andrzej][andrzej-tw], thank you for it!
 

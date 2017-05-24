@@ -11,10 +11,10 @@ Probably because Ukraine is on the first place in "asking Stackoverflow on how t
 At the same time, by reading that report people get to know several methods to EXIT VIM.
 
 The ultimate cheatsheet on the topic was eventually found on reddit:
-![How to exit vim cheatsheet](/img/how-to-exit-vim.jpg)
+![How to exit vim cheatsheet](/i/how-to-exit-vim.jpg)
 
 There was another investigation on this topic some time ago:
-![How to exit vim monkey](/img/vim-exit-theorem.jpg)
+![How to exit vim monkey](/i/vim-exit-theorem.jpg)
 
 [stackoverflow-vim-report]: https://stackoverflow.blog/2017/05/23/stack-overflow-helping-one-million-developers-exit-vim/
 [dou-on-vim]: https://dou.ua/forums/topic/20717/
