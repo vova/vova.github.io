@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
   algorithms, DBs, methodologies, *nix etc.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "vova.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: vovaua
+twitter_username: vovaonsoftware
 github_username:  vova
 
 # Build settings
