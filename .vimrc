@@ -26,9 +26,9 @@ map <Leader>R :e config/routes.rb<CR>
 map <Leader>S :e db/schema.rb<CR>
 map <Leader>G :e Gemfile<CR>
 
-set sw=2 “Replace tab with 2 spaces
-set sts=2 “Same in case of autoindent
-let g:fuzzy_ignore = “gems/*”
+set sw=2 "Replace tab with 2 spaces
+set sts=2 "Same in case of autoindent
+let g:fuzzy_ignore = "gems/*r"
 
 "convert rocket hash style to 1.9 hash
 nmap <Leader>h :s/\:\([a-zA-Z_]*\)\s=>/\1\:/g<CR>
