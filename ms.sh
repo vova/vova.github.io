@@ -11,6 +11,7 @@ sudo apt-get install silversearcher-ag
 wget https://raw.githubusercontent.com/vova/vova.github.io/master/.vimrc -O ~/.vimrc
 echo "alias be='bundle exec'" >> ~/.bashrc
 echo "alias eg='vim Gemfile'" >> ~/.bashrc
+echo "alias f='find . -name'" >> ~/.bashrc
 echo "alias gg='ripper-tags -R --exclude=.git --exclude=vendor .'" >> ~/.bashrc
 echo "alias ivm='vim'" >> ~/.bashrc
 echo "alias rc='vim ~/.bashrc && source ~/.bashrc'" >> ~/.bashrc
