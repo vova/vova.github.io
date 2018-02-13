@@ -5,6 +5,7 @@ set path+=**
 set wildmenu
 set nonu " Hide line numbers, set nu to show
 set ignorecase
+set incsearch
 set smartcase
 set encoding=utf8
 autocmd BufWritePre * :%s/\s\+$//e  "removes trail spaces
