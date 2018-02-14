@@ -52,4 +52,12 @@ let g:netrw_liststyle=3     " tree view
 let g:netrw_preview   = 1
 let g:netrw_liststyle = 3
 let g:netrw_winsize   = 30
+
 map <Leader>p :Explore<CR>
+
+if executable('ag')
+  set grepprg=ag\ --nogroup\ --nocolor
+endif
+map <Leader>F :grep! "\b<C-R><C-W>\b"<CR>:cw<CR>
+map <Leader>f :vim <cword> % \| copen<CR>
+
