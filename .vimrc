@@ -58,6 +58,7 @@ map <Leader>p :Explore<CR>
 if executable('ag')
   set grepprg=ag\ --nogroup\ --nocolor
 endif
-map <Leader>F :grep! "\b<C-R><C-W>\b"<CR>:cw<CR>
+map <Leader>F :grep! <cword><CR>:cw<CR>
+map <Leader>K :grep! "\b<cword>\b"<CR>:cw<CR>
 map <Leader>f :vim <cword> % \| copen<CR>
 
