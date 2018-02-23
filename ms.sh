@@ -2,9 +2,9 @@
 
 # minimun setup of vim with rails-related stuff
 # to be run with 
-# curl https://raw.githubusercontent.com/vova/vova.github.io/master/ms.sh | bash
+# bash <(curl https://raw.githubusercontent.com/vova/vova.github.io/master/ms.sh)
 # or (with url shortened) 
-# curl -L git.io/vvim | bash
+# bash <(curl -L git.io/vvim)
 
 sudo gem install ripper-tags
 sudo apt-get install silversearcher-ag
