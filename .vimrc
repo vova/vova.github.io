@@ -62,3 +62,4 @@ map <Leader>F :grep! <cword><CR>:cw<CR>
 map <Leader>K :grep! "\b<cword>\b"<CR>:cw<CR>
 map <Leader>f :vim <cword> % \| copen<CR>
 
+abbr pry require 'pry'; binding.pry
